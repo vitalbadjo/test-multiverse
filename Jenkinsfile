@@ -12,7 +12,9 @@ pipeline {
       environment {
 	      NPM_TOKEN = "na"
       }
-      agent any
+      agent {
+          docker { image 'cueage/flow-cli:latest' }
+      }
       steps {
         sh 'yarn'
         sh 'yarn bootstrap'
@@ -22,7 +24,9 @@ pipeline {
       }
     }
     stage('build and deploy') {
-      agent any
+      agent {
+          docker { image 'cueage/flow-cli:latest' }
+      }
       when { tag "v*" }
       steps {
         withCredentials([string(credentialsId: 'npm-token', variable: 'NPM_TOKEN')]) {
