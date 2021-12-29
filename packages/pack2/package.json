@@ -1,6 +1,6 @@
 {
   "name": "@vitalbadjo/pack2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "license": "ISC",
   "main": "build/index.js",
@@ -13,8 +13,6 @@
     "clean": "rimraf ./build",
     "test": "jest --runInBand",
     "verify": "tsc --noEmit"
-  },
-  "dependencies": {
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
