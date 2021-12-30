@@ -1,6 +1,6 @@
 {
   "name": "@vitalbadjo/pack2",
-  "version": "0.0.5",
+  "version": "0.0.17",
   "homepage": "",
   "license": "ISC",
   "main": "build/index.js",
