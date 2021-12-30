@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.13-alpha.1](https://github.com/vitalbadjo/test-multiverse/compare/v0.0.13-alpha.0...v0.0.13-alpha.1) (2021-12-30)
+
+
+### Bug Fixes
+
+* v ([1942e24](https://github.com/vitalbadjo/test-multiverse/commit/1942e24e543e715ad9bd3796fa37f865671e73e6))
+
+
+
+
+
 ## [0.0.13-alpha.0](https://github.com/vitalbadjo/test-multiverse/compare/v0.0.12-alpha.0...v0.0.13-alpha.0) (2021-12-30)
 
 
