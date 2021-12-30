@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.20-bb.0](https://github.com/vitalbadjo/test-multiverse/compare/v0.0.18-alpha.0...v0.0.20-bb.0) (2021-12-30)
+
+
+### Bug Fixes
+
+* v ([79391d9](https://github.com/vitalbadjo/test-multiverse/commit/79391d9cb826741a40f3a6cc69ec073159692233))
+
+
+
+
+
 ## [0.0.18-alpha.0](https://github.com/vitalbadjo/test-multiverse/compare/v0.0.17-alpha.0...v0.0.18-alpha.0) (2021-12-30)
 
 
